@@ -1,0 +1,74 @@
+[06/Jun/2022 05:17:04] "GET / HTTP/1.1" 200 16348
+Not Found: /static/admin/css/fonts.css
+[06/Jun/2022 05:17:04] "GET /static/admin/css/fonts.css HTTP/1.1" 404 2024
+Not Found: /Roboto-Regular.ttf
+[06/Jun/2022 05:17:04] "GET /Roboto-Regular.ttf HTTP/1.1" 404 2000
+[06/Jun/2022 05:17:09] "GET / HTTP/1.1" 200 16348
+Not Found: /static/admin/css/fonts.css
+[06/Jun/2022 05:17:09] "GET /static/admin/css/fonts.css HTTP/1.1" 404 2024
+[06/Jun/2022 05:17:10] "GET / HTTP/1.1" 200 16348
+Not Found: /static/admin/css/fonts.css
+[06/Jun/2022 05:17:10] "GET /static/admin/css/fonts.css HTTP/1.1" 404 2024
+Not Found: /favicon.ico
+[06/Jun/2022 05:17:10] "GET /favicon.ico HTTP/1.1" 404 1979
+[06/Jun/2022 05:17:10] "GET / HTTP/1.1" 200 16348
+Not Found: /static/admin/css/fonts.css
+[06/Jun/2022 05:17:10] "GET /static/admin/css/fonts.css HTTP/1.1" 404 2024
+Not Found: /favicon.ico
+[06/Jun/2022 05:17:10] "GET /favicon.ico HTTP/1.1" 404 1979
+[06/Jun/2022 05:17:10] "GET / HTTP/1.1" 200 16348
+Not Found: /static/admin/css/fonts.css
+[06/Jun/2022 05:17:10] "GET /static/admin/css/fonts.css HTTP/1.1" 404 2024
+Not Found: /Roboto-Regular.ttf
+[06/Jun/2022 05:17:10] "GET /Roboto-Regular.ttf HTTP/1.1" 404 2000
+Not Found: /favicon.ico
+[06/Jun/2022 05:17:10] "GET /favicon.ico HTTP/1.1" 404 1979
+[06/Jun/2022 05:17:10] "GET / HTTP/1.1" 200 16348
+Not Found: /static/admin/css/fonts.css
+[06/Jun/2022 05:17:10] "GET /static/admin/css/fonts.css HTTP/1.1" 404 2024
+Not Found: /Roboto-Regular.ttf
+[06/Jun/2022 05:17:10] "GET /Roboto-Regular.ttf HTTP/1.1" 404 2000
+[06/Jun/2022 05:17:10] "GET / HTTP/1.1" 200 16348
+Not Found: /static/admin/css/fonts.css
+[06/Jun/2022 05:17:10] "GET /static/admin/css/fonts.css HTTP/1.1" 404 2024
+Not Found: /Roboto-Regular.ttf
+[06/Jun/2022 05:17:10] "GET /Roboto-Regular.ttf HTTP/1.1" 404 2000
+Not Found: /favicon.ico
+[06/Jun/2022 05:17:11] "GET /favicon.ico HTTP/1.1" 404 1979
+[06/Jun/2022 05:17:11] "GET / HTTP/1.1" 200 16348
+Not Found: /static/admin/css/fonts.css
+[06/Jun/2022 05:17:11] "GET /static/admin/css/fonts.css HTTP/1.1" 404 2024
+Not Found: /Roboto-Regular.ttf
+[06/Jun/2022 05:17:11] "GET /Roboto-Regular.ttf HTTP/1.1" 404 2000
+[06/Jun/2022 05:17:11] "GET / HTTP/1.1" 200 16348
+Not Found: /static/admin/css/fonts.css
+[06/Jun/2022 05:17:11] "GET /static/admin/css/fonts.css HTTP/1.1" 404 2024
+Not Found: /favicon.ico
+[06/Jun/2022 05:17:11] "GET /favicon.ico HTTP/1.1" 404 1979
+[06/Jun/2022 05:17:11] "GET / HTTP/1.1" 200 16348
+Not Found: /static/admin/css/fonts.css
+[06/Jun/2022 05:17:11] "GET /static/admin/css/fonts.css HTTP/1.1" 404 2024
+Not Found: /Roboto-Regular.ttf
+[06/Jun/2022 05:17:11] "GET /Roboto-Regular.ttf HTTP/1.1" 404 2000
+[06/Jun/2022 05:17:37] "GET / HTTP/1.1" 200 16348
+Not Found: /static/admin/css/fonts.css
+[06/Jun/2022 05:17:37] "GET /static/admin/css/fonts.css HTTP/1.1" 404 2024
+Not Found: /Roboto-Regular.ttf
+[06/Jun/2022 05:17:37] "GET /Roboto-Regular.ttf HTTP/1.1" 404 2000
+[06/Jun/2022 05:17:37] "GET / HTTP/1.1" 200 16348
+Not Found: /static/admin/css/fonts.css
+[06/Jun/2022 05:17:37] "GET /static/admin/css/fonts.css HTTP/1.1" 404 2024
+Not Found: /favicon.ico
+[06/Jun/2022 05:17:37] "GET /favicon.ico HTTP/1.1" 404 1979
+[06/Jun/2022 05:17:38] "GET / HTTP/1.1" 200 16348
+Not Found: /static/admin/css/fonts.css
+[06/Jun/2022 05:17:38] "GET /static/admin/css/fonts.css HTTP/1.1" 404 2024
+Not Found: /favicon.ico
+[06/Jun/2022 05:17:38] "GET /favicon.ico HTTP/1.1" 404 1979
+[06/Jun/2022 05:17:38] "GET / HTTP/1.1" 200 16348
+Not Found: /static/admin/css/fonts.css
+[06/Jun/2022 05:17:38] "GET /static/admin/css/fonts.css HTTP/1.1" 404 2024
+Not Found: /Roboto-Regular.ttf
+[06/Jun/2022 05:17:38] "GET /Roboto-Regular.ttf HTTP/1.1" 404 2000
+Not Found: /favicon.ico
+[06/Jun/2022 05:17:38] "GET /favicon.ico HTTP/1.1" 404 1979
