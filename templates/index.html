@@ -1,0 +1,11 @@
+<html>
+    <head>
+        <title>My project</title>
+    </head>
+    <body>
+        <h1>Hello World</h1>
+        {% for i in data %}
+        <img src="{{ i.file.url }}" height="100" width="100" >
+        {% endfor %}
+    </body>
+</html>
